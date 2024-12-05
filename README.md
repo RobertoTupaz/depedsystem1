@@ -1,10 +1,10 @@
 <h1>About</h1>
 <hr>
-1. DepedSystem1 is a prototype system that handles letter printing of sir Dan.
-2. It generates pdf for printing.
+1. DepedSystem1 is a prototype system that handles letter printing of sir Dan.<br>
+2. It generates pdf for printing.<br>
 3. It stores PSIPOP data's(From Exel to MySql).<br><br>
 <h1>Guides before uploading PSIPOP</h1>
-1. "wala" data in exel must be remove.
+1. "wala" data in exel must be remove.<br>
 2. Column data mus be consistent(I recieved an exel file that has this column order "stats, page, page_no, organizational_unit, salary_grade", it must be true to the updated exel file before you upload it or else it will give you unaccurate data when printing or error when uploading).
 <br><br>
 <h2>For more information, you can contact me at</h2>
