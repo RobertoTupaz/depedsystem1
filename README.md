@@ -3,10 +3,11 @@
 1. DepedSystem1 is a prototype system that handles letter printing of sir Dan.<br>
 2. It generates pdf for printing.<br>
 3. It stores PSIPOP data's(From Exel to MySql).<br><br>
-<h1>Guides on installation</h1>
-1. Enable zip and intl extension in php.in
-2. Create a directory "C:\projects"
-3. Download and install the <a href="https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox-0.12.6-1.msvc2015-win64.exe">wkhtmlpdf</a> to the created directory.
+<h1>Guides on deploying</h1>
+1. Enable zip and intl extension in php.in<br>
+2. Create a directory "C:\projects"<br>
+3. Download and install the <a href="https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox-0.12.6-1.msvc2015-win64.exe">wkhtmlpdf</a> 
+to the created directory.<br>
 4. If the download link is not working, visit <a href="https://wkhtmltopdf.org/downloads.html">Official website</a><br><br>
 <h1>Guides before uploading PSIPOP</h1>
 1. "wala" data in exel must be remove.<br>
