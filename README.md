@@ -2,7 +2,8 @@
 <hr>
 1. DepedSystem1 is a prototype system that handles letter printing of sir Dan.<br>
 2. It generates pdf for printing.<br>
-3. It stores PSIPOP data's(From Exel to MySql).<br><br>
+3. It stores PSIPOP data's(From Exel to MySql)
+4. Has CRUD operation for employee database.<br><br>
 <h1>Guides on deploying</h1>
 1. Enable zip and intl extension in php.in<br>
 2. Create a directory "C:\projects"<br>
